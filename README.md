@@ -10,6 +10,9 @@
 
 
 1.在项目的project 目录下的build.gradle 中的allprojects加上 maven { url 'https://jitpack.io' }
+
+
+
 allprojects {
     repositories {
         jcenter()
